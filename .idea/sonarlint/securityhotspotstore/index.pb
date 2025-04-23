@@ -7,3 +7,7 @@ O
 tests/academic-progress.test.ts,8/c/8cea8c6eb67c886e32f3256301114e44fcc38986
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+O
+contracts/donor-management.clar,9/6/961d0db8928ea52ae70ab52be3ce0fd0d1b90a42
+N
+tests/donor-management.test.ts,a/8/a8754ca0512bb5b4029efd02822fd2e4215b156f
